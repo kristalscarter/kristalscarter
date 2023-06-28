@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kristal! <br/><a href="https://github.com/kristalscarter">Cybersecurity</a>, <a href="https://www.linkedin.com/in/kristalscarter/">Cybersecurity Professional</a>
+<h1>Hi, I'm Kristal! <br/><a href="https://github.com/kristalscarter".>IT Professional, Cybersecurity</a>, <a href="https://www.linkedin.com/in/kristalscarter/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -17,12 +17,3 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-
