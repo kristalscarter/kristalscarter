@@ -7,5 +7,5 @@
 <h2>👨‍💻IT & Cybersecurity Projects:</h2>
 
 - <b>SQL Queries Practice (MySQL)
-  - [Applying Filters to SQL Queries](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Applying Filters to SQL Queries](https://github.com/kristalscarter/Apply-Filters-to-SQL-Queries)
   
