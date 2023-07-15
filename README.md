@@ -1,7 +1,8 @@
 <h1>Hi, I'm Kristal! <br/><a href="https://github.com/kristalscarter".>IT Professional, Cybersecurity</a>, <a href="https://www.linkedin.com/in/kristalscarter/">Cybersecurity Professional</a>
 
 <h2>👨‍💻IT & Cybersecurity Certifications:</h2>
- 
+
+- <b>Information Technology Certification - Course Careers
 - <b>Google Cybersecurity Certification
   
 <h2>👨‍💻IT & Cybersecurity Projects:</h2>
